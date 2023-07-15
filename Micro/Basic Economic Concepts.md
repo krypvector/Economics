@@ -1,0 +1,81 @@
+### Introduction
+- What is microeconomics?
+	- Study of how individuals & firms make decisions in a world of scarcity.
+	- Scarcity is what drives microeconomics.
+	- Microeconomics is a series of constrained optimization exercises where economics individuals be they firms or individuals try to make themselves as well off as possible given their constraints.
+	- Basically → Tradeoffs.
+- Engineering → all about constraint optimization.
+- Economics   → the engine.
+- "An economist is a man who states the obvious in terms of the incomprehensible." — Alfred A. Knopf
+- "An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today." — Laurence J. Peter
+- Scarcity and Rivalry
+	- Scarcity: limited resource ↔ potentially unlimited wants
+	- Rivalry: usage by one person limits the ability for others to use (simultaneously).
+		- The rivalry of a good also depends on the context and perspective. What maybe a rival resource between two countries might not be one between two individuals. A road maybe more rival during the day but less during the night.
+- Factors of production
+	- Land → natural resources in general.
+	- Labor → to produce something, someone has to work on it.
+	- Capital → something produced to produce other things.
+		- For example: tools produced to produce other things, machinery in a factory, etc.
+	- Entrepreneurship → putting together all the other factors to actually product things.
+		- A related idea used interchangeably is technology.
+-  A model is technical description of two or more economic variables.
+	- They aren't laws.
+	- We make simplifying assumptions.
+		- For example: all humans are rational beings, all things are equal, etc.
+- Positive vs Normative Analysis
+	- Positive: study of how things are. The statement itself can be tested.
+	- Normative: study of the way things should be. The statement isn't testable, it's either someone's opinion or belief which might be right or wrong.
+- Occam's Razor
+	- the logical principle that states you should make no more assumptions than the minimum amount needed to perform analysis; in economics, we use the concept of Occam's razor when we invoke the _ceteris paribus_ assumption.
+		- ceteris paribus: phrase essentially meaning "all else equal", which is used in economics to emphasize the idea that the only changes you should be thinking about are the ones that are explicitly described.
+### Economic Systems
+- An economic system is any system of allocating scarce resources. Economic systems answer three basic questions: what will be produced, how will it be produced, and how will the output society produces be distributed?
+- Market and Property Rights
+	- Markets forms when multiple parties exchange things of value.
+	- We tend to believe that markets are the best way of allocating resources. 
+	- Different markets work in different ways.
+	- A key thing that is needed to ensure proper functioning of a market is the notion of property rights.
+	- Property rights are the idea that things can be owned.
+	- What does it mean to own?
+		- Exclusive: 
+			- you and only you receive the benefits that come from your property.
+		- Enforceable: 
+			- if someone else tries to come forcibility then it's an intrusion and enforcers can be called.
+		- Transferable:
+			- if property isn't transferable then it makes no sense for the existence of  market.
+- How freely should a market, should an economy function?
+	- Capitalistic Economy
+		- Firms and individuals decide what to produce and consume, maybe subject to some rules of the road set by the government.
+	- Command Economy
+		- The government makes all the production and consumption decisions.
+		- In theory, it ensured equity.
+			- Everyone got an equal shot but in practice, it didn't work at all.
+			- Party because too many opportunities for corruption when the government controls everything.
+			- It's hard to control human nature.
+	- Adam Smith's Invisible Hand
+		- It is basically the notion that the capitalist economy will manage to distribute things roughly in proportions to what people want.
+		- View:
+			- Consumers and firms serving their own best interest will do what's best for society.
+			- Best for society:
+				- More surplus.
+				- The most stuff gets produced that people value.
+### Production Possibilities Frontier
+* A production possibilities frontier, or PPF, defines the set of possible combinations of goods and services a society can produce given the resources available. 
+	* Choices outside the PPF are unattainable (at least in any sustainable way), and choices inside the PPF are inefficient. 
+	* Sometimes the PPF is called a production possibilities curve 
+- Opportunity Cost
+	- Every action or every inaction has a cost that you could've doing something else instead.
+	- Nothing is free, always a tradeoff, always an opportunity cost.
+	- The opportunity cost of producing one more unit is called marginal cost.
+	- The slope of PFP indicates the opportunity cost of producing one good versus the other good
+- Increasing Opportunity Cost
+	- As you increase the production of one good, the opportunity cost to produce the additional good will increase.
+	- Concave PPC always has increasing opportunity cost.
+- Law of diminishing returns
+	- As additional increments of resources are added to a certain purpose, the marginal benefit from those additional increments will decline.
+	- After some optimal level of capacity is reached, adding an additional factor of production will actually result in smaller increases in output.
+- Over time, a growing economy will tend to shift the PPF outwards.
+- All choices along a PPF display productive efficiency — it is impossible to use society’s resources to produce more of one good without decreasing production of the other good.
+- The specific choice along a PPF that reflects the mix of goods society most desires is the choice with allocative efficiency. We need more information than just the PPF to determine allocative efficiency.
+- The choices below the curve are inefficient.
